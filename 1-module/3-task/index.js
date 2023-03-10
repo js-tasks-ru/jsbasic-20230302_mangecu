@@ -1,3 +1,4 @@
 function ucFirst(str) {
-  // ваш код...
+  return str.slice(0,1).toLocaleUpperCase() + str.slice(1, str.length)
 }
+
