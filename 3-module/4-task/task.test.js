@@ -9,6 +9,7 @@ const data = [
     'greeting': 'Hello, Golden Branch! You have 7 unread messages.',
     'favouriteFruit': 'banana'
   },
+
   {
     'index': 1,
     'guid': '53c90e0c-b8b2-494b-8508-7d5870af0351',
@@ -53,6 +54,7 @@ const data = [
     'greeting': 'Hello, Duncan Randall! You have 2 unread messages.',
     'favouriteFruit': 'banana'
   },
+
   {
     'index': 2,
     'guid': '2483e252-b0d2-4a26-98e6-513531b320b7',
@@ -97,6 +99,7 @@ const data = [
     'greeting': 'Hello, Glass Ray! You have 8 unread messages.',
     'favouriteFruit': 'strawberry'
   },
+
   {
     'index': 3,
     'guid': '51855992-a0e7-4821-8178-92bcd13a1f0c',
@@ -141,6 +144,7 @@ const data = [
     'greeting': 'Hello, Helga Nixon! You have 3 unread messages.',
     'favouriteFruit': 'banana'
   },
+
   {
     'index': 4,
     'guid': '83405931-c746-4ed6-a05f-10b79b018af2',
@@ -185,6 +189,7 @@ const data = [
     'greeting': 'Hello, Felicia Browning! You have 4 unread messages.',
     'favouriteFruit': 'banana'
   },
+
   {
     'index': 5,
     'guid': 'd4f7c1c1-a902-431c-95ce-034f74cae5c7',
@@ -229,6 +234,7 @@ const data = [
     'greeting': 'Hello, Parrish Jordan! You have 3 unread messages.',
     'favouriteFruit': 'banana'
   },
+
   {
     'index': 6,
     'guid': '7f120395-5c8b-4fdc-9dd6-6892af61e28b',
