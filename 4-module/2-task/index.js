@@ -1,3 +1,7 @@
 function makeDiagonalRed(table) {
-  // ваш код...
+  table.querySelectorAll("td").forEach(el => {
+    if (el.parentElement.rowIndex === el.cellIndex) {
+      el.style.backgroundColor = "red"
+    }
+  })
 }
